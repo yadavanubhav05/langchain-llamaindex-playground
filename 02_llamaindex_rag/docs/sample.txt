@@ -1,0 +1,3 @@
+LlamaIndex is a framework for building applications with LLMs.
+It helps in data ingestion, indexing, and querying.
+It is widely used in RAG systems.
